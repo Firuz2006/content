@@ -40,3 +40,4 @@ Similarly, an `id` starting with a digit (E.g., `1234-322-678`) or a hyphen foll
 - {{domxref("Element.id")}} that reflects this attribute.
 - The {{domxref("Document.getElementById")}} method.
 - CSS [ID selectors](/en-US/docs/Web/CSS/ID_selectors).
+   
